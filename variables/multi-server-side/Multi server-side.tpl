@@ -15,6 +15,7 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Multi server-side",
   "description": "Store multiple server-side URLs to be dynamically assigned to GA4 events on certain conditions.\nSelect a variable to match against condition, the condition type and the condition-URL pairs.",
+  "categories": ["UTILITY"],
   "containerContexts": [
     "WEB"
   ]
