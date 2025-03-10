@@ -1,4 +1,4 @@
-OR RegEx Table
+# OR RegEx Table
 
 This server-side GTM variable template allows you to match up to three text or variables inputs against a table of Regular Expression conditions (as you normally do with the default RegEx Table variables).
 You can use as many inputs you like (at least one must exist); they are all matched against the conditions by OR logic.
